@@ -1,4 +1,4 @@
-function FUND_VALUE(fundType, fundName) {
+function FUND_PRICE(fundType, fundName) {
   fundType = fundType.trim()
   fundName = fundName.trim()
   let url = "https://www.nntfi.pl/fundusze-inwestycyjne/" + fundType + "/" + fundName + "?unitsCategoryId=K"
