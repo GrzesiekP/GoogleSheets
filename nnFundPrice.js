@@ -1,4 +1,4 @@
-function FUND_PRICE(fundType, fundName) {
+function NN_FUND_PRICE(fundType, fundName) {
   // --> Sprawdź wyjaśnienie tego kodu na grzegorzpawlowski.pl <--
   
   // Przygotowuję URL
